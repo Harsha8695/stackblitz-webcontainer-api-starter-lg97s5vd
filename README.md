@@ -6,7 +6,7 @@ WebContainer API is perfect for building interactive coding experiences. Among i
 
 ## How To
 
-For an up-to-date documentation, please refer to [our documentation](https://webcontainers.io).
+For up-to-date documentation, please refer to [our documentation](https://webcontainers.io).
 
 ## Cross-Origin Isolation
 
